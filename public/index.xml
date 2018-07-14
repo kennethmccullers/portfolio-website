@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kenneth McCullers</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Kenneth McCullers</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Jul 2018 10:58:03 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Sat, 14 Jul 2018 10:58:03 -0400</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Test About Page</description>
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://example.org/posts/first-post/</link>
+      <pubDate>Sat, 14 Jul 2018 10:58:03 -0400</pubDate>
+      
+      <guid>http://example.org/posts/first-post/</guid>
+      <description>Hi There!</description>
+    </item>
+    
+  </channel>
+</rss>
