@@ -1,7 +1,6 @@
 ---
-title: "First Post"
-date: 2018-07-14T10:58:03-04:00
-draft: false
----
+title: First Post
+date: 2018-07-14 14:58:03 +0000
 
-Hi There!
+---
+![](/uploads/Untitled-1.png)Hi There!
