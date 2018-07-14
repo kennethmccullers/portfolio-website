@@ -3,6 +3,8 @@ languageCode = "en-us"
 title = "Kenneth McCullers"
 theme = "code"
 
+[params]
+	custom_css = ["css/custom.css"]
 
 # Menu Links
 [[menu.main]]
