@@ -1,0 +1,26 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Kenneth McCullers"
+theme = "coder"
+
+
+# Menu Links
+[[menu.main]]
+	name = "About"
+	weight = 1
+	url = "/about/"
+
+[[menu.main]]
+	name = "Portfolio"
+	weight = 2
+	url = "/portfolio/"
+
+[[menu.main]]
+	name = "Blog"
+	weight = 3
+	url = "/posts/"
+
+[[menu.main]]
+	name = "Contact"
+	weight = 4
+	url = "/contact/"
