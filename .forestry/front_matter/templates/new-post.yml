@@ -13,14 +13,5 @@ fields:
   name: featured_image
   label: Featured Image
   description: Upload Featured Image Here
-- type: textarea
-  name: content
-  label: Content
-  description: Enter Content Here
-  config:
-    required: true
-    wysiwyg: true
-    schema:
-      format: markdown
 pages:
 - content/posts/testing-out-shortcodes-for-blog.md
