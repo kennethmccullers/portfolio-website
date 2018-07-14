@@ -2,6 +2,7 @@ baseURL = "https://heuristic-snyder-2d4b60.netlify.com/"
 languageCode = "en-us"
 title = "Kenneth McCullers"
 theme = "code"
+disqusShortname = "kenneth-mccullers-1"
 
 [params]
 	custom_css = ["css/custom.css"]
