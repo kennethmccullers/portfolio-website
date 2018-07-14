@@ -1,7 +1,7 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Kenneth McCullers"
-theme = "coder"
+theme = "code"
 
 
 # Menu Links
